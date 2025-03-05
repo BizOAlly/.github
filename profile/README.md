@@ -89,12 +89,13 @@ No agency can guarantee the #1 position, but we use **proven techniques** to imp
 ---
 
 🔗 **Follow BizoAlly on Social Media**  
-<div class="social-links">
-    <a href="https://www.facebook.com/thebizoally" title="Facebook Profile"><i class="fab fa-facebook"></i></a>
-    <a href="https://twitter.com/thebizoally" title="Twitter Profile"><i class="fab fa-twitter"></i></a>
-    <a href="https://www.linkedin.com/company/bizoally" title="LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
-    <a href="https://www.instagram.com/thebizoally" title="Instagram Profile"><i class="fab fa-instagram"></i></a>
-</div>
+## 🌍 Connect With Us  
+
+🔹 [Facebook](https://www.facebook.com/thebizoally)  
+🔹 [Twitter/X](https://twitter.com/thebizoally)  
+🔹 [LinkedIn](https://www.linkedin.com/company/bizoally)  
+🔹 [Instagram](https://www.instagram.com/thebizoally)  
+
 
 
 ---
