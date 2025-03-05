@@ -1,4 +1,4 @@
-# BizoAlly - Your Trusted SEO & Digital Marketing Partner  
+# BizoAlly - Digital Marketing & SEO Experts
 
 ## 🚀 About Us  
 
